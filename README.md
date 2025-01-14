@@ -1,6 +1,6 @@
 **1. Introduction**
 
-The goal of this problem is to cluster customers based on age and gender, thereby analyzing shopping behavior and devising appropriate business strategies. The K-Means algorithm is used because of its efficiency and ability to group based on data characteristics
+The goal of this project is to cluster customers based on age and gender, thereby analyzing shopping behavior and devising appropriate business strategies. The K-Means algorithm is used because of its efficiency and ability to group based on data characteristics
    
 **2. Prerequisites**
 
