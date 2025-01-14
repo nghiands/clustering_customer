@@ -39,9 +39,17 @@ You can also see the dataset details [here](https://www.kaggle.com/datasets/moha
   ![image](https://github.com/user-attachments/assets/d3e4c62f-8872-4ad6-bc14-3b02d3f5b5ee)
 
   ![image](https://github.com/user-attachments/assets/7c788574-b123-4edf-95e7-8ff2e3810add)
+  ![image](https://github.com/user-attachments/assets/8ee47103-0fcf-4643-9f64-c688ce041d14)
+
 
 
 **5. Insights**
 - The **main customer** group of the data set is customers from 36-60 years old, contributing 53% of total revenue, this is the most important customer group.
 - **Female** customers are the main customers, contributing to 51% of revenue.
-- **Electronics** is the sector that generates the most revenue, contributing 35% of total revenue, with great interest from male customers and the 36-60 age group
+-	**Electronics**  is the sector that generates the **most revenue**, with great interest from male customers and the 36-60 age group
+-	Shopping behavior:
+    + *Summer and winter* have the *highest* number of transactions and revenues, especially in the Electronics sector.
+    + **Female** customers prefer to shop at the **end of the year** (fall and winter), while **male** customers prefer to shop at the **beginning of the year** (spring and summer).
+-	Spend analysis by age group:
+    + The **36-60** age group  not only  spends the most, but also tends to shop in the middle of the week and contributes greatly to **Electronics sales**.
+    + The **19-35** age group  is  more interested in the **fashion sector**, while the 61+ group  focuses on Electronics, and the 0-18 group  focuses on the beauty sector.
